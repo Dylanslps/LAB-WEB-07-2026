@@ -1,7 +1,21 @@
 # LAB-WEB-07-2026
 ## Praktikum Web 07 2026 - Universitas Hasanuddin (First time as an Aslab btw)
 
-Selamat datang di repositori resmi **Praktikum Pemrograman Web 2026 — Universitas Hasanuddin**!  
+Selamat datang di repositori  **Praktikum Pemrograman Web 2026 — Universitas Hasanuddin**!  
+
+## Informasi Anggota Web 07
+
+**Asisten Lab:** Reynaldy Al (H071231057)
+
+**Daftar Praktikan:**
+| NIM | Nama Lengkap |
+| :--- | :--- |
+| H071251026 | Muhammad Mahathir |
+| H071251028 | Aliyah Fitraturramadhani |
+| H071251052 | Ilmi Ahmad Alfaridzi |
+| H071251080 | Dylan Dwi Putra Patarai |
+| H071251086 | Riskia Nur Azizah Ismail |
+| H071251093 | Imam Arief Rachmat |
 
 ---
 
